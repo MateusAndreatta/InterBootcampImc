@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Imc</string>
+    <string name="title">Calculadora de <b>IMC</b></string>
+    <string name="description">Calcule agora mesmo seu Índice de massa corporal.</string>
+    <string name="description_subtitle">Clique em calcular.</string>
+    <string name="calcular">Calcular</string>
+    <string name="selecione_seu_sexo">Selecione seu sexo</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="hint_peso">Ex.: 85,2 kg</string>
+    <string name="hint_altura">Ex.: 1,70 m</string>
+    <string name="calcular_novamente">Calcular novamente</string>
+    <string name="result_description_f" formatted="true"><b>Magreza,</b> quando o resultado é menor que 19,1 kg/m2;
+        \n\n\<b>Normal,</b> quando o resultado está entre 19,1 e 25,8 kg/m2;
+        \n\n\<b>Sobrepeso,</b> quando o resultado está entre 27,4 e 32,3 kg/m2;
+        \n\n\<b>Obesidade,</b> quando o resultado é maior que 32,3 kg/m2.</string>
+    <string name="result_description_m"><b>Magreza,</b> quando o resultado é menor que 20,7 kg/m2;<br /><br />
+        \n\n\<b>Normal,</b> quando o resultado está entre 20,7 e 26,4 kg/m2;<br /><br />
+        \n\n\<b>Sobrepeso,</b> quando o resultado está entre 26,5 e 27,1 kg/m2;<br /><br />
+        \n\n\<b>Obesidade,</b> quando o resultado é maior que 31,1 kg/m2.</string>
+    <string name="toast_valores_negativos_zero">Os valores não podem ser 0 ou negativos!</string>
+    <string name="toast_preencha_todos_campos">Preencha todos os campos!</string>
+    <string name="toast_confira_valores_informados">Confira os valores informados!</string>
+</resources>
